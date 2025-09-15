@@ -11,6 +11,11 @@
 - Generated burst units and saved outputs in CSV and RDS formats.
 - Visualized burst trends across 100 events to support functionality testing.
 
+## 📊 Burst Simulation Chart
+
+![Burst Chart](burst_chart_v1.png)
+
+
 ## Questions I Asked or Still Have
 - Where are the official burst simulation scripts and audit log files stored?
 - What benchmarks or expected outputs should I validate against?
